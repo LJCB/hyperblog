@@ -1,3 +1,7 @@
 Esta es una prueba para subir al repo con Git.
 
 Esta es la vida de Javier.
+
+Deporte favorito fútbol.
+Estoy felizmente casado con Noemí. Ella es hermosa, cariñosa, linda, sabe cocinar y en una palabra es perfecta.
+Tengo una hija de 1 año y casi 3 meses de edad, es hermosa, divertida, fuerte, muuuuuy traviesa.
